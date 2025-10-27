@@ -17,9 +17,9 @@ Projects I have done solo or led a small team:
 * A language and interpreter for data manipulation - to allow us to build response handlers for analytics queries using a declarative syntax
 * An interpreter for the [Clinical Quality Language](https://cql.hl7.org/)
 * An open-source implementation of the Data Distribution Service (DDS) standard, [OpenDDS](https://github.com/OpenDDS/OpenDDS)
-A 3-D composite design optimization tool - awarded US patents [5984511](https://ppubs.uspto.gov/api/pdf/downloadPdf/5984511?requestToken=eyJzdWIiOiJiMTNmOWMxNi00Mzc2LTQwNDItYjQxMy1mMTc1NTA3MzZhYzciLCJ2ZXIiOiIxMjBiMzBhOC1iNWFlLTQxN2EtODY1MC1kMThkYmZkNWQ4ODAiLCJleHAiOjB9) and [6341261]
+* A 3-D composite design optimization tool - awarded US patents [5984511](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/5984511.pdf) and [6341261](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/6341261.pdf), later sold to Unigraphics
 * An online homeschool lesson planner with over 17 million lessons planned
 * A deployment system - for rolling out incremental updates
 * An Regression testing framework for interactive Analytics
 * An Monitoring system using an embedded web server
-
+* A Javascript library for making inline assertions against selectors
