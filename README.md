@@ -13,13 +13,14 @@ Projects I have done solo or led a small team:
 * A Batch Healthcare Analytics system - from startup to successful exit
 * A single-index shared-cache database (bTree indexed) similar to Redis
 * An open-source order-matching engine, [Liquibook](https://github.com/enewhuis/liquibook)- a popular building block in Crypto exchanges with over 400 forks
-* Trading systems and feed handlers
-* A language and interpreter for data manipulation - to allow us to build response handlers for analytics queries using a declarative syntax
 * An interpreter for the [Clinical Quality Language](https://cql.hl7.org/)
 * An open-source implementation of the Data Distribution Service (DDS) standard, [OpenDDS](https://github.com/OpenDDS/OpenDDS)
 * A 3-D composite design optimization tool - awarded US patents [5984511](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/5984511.pdf) and [6341261](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/6341261.pdf), later sold to Unigraphics
 * An online homeschool lesson planner with over 17 million lessons planned
+* Algorithmic Trading systems
+* A language and interpreter for data manipulation - to allow formatting of database responses using a declarative syntax for presentation
 * A deployment system - for rolling out incremental updates
 * An Regression testing framework for interactive Analytics
 * An Monitoring system using an embedded web server
 * A Javascript library for making inline assertions against selectors
+* An Embedded web server for monitoring and internal control
