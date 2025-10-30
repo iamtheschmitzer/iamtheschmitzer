@@ -14,6 +14,7 @@ Projects I have done solo or led a small team:
 * A single-index shared-cache database (bTree indexed) similar to Redis
 * An open-source order-matching engine, [Liquibook](https://github.com/enewhuis/liquibook)- a popular building block in Crypto exchanges with over 400 forks
 * An interpreter for the [Clinical Quality Language](https://cql.hl7.org/)
+* Using Claude to turn PDFs requirements into Clinical Quality Language files to feed into above interpreter
 * An open-source implementation of the Data Distribution Service (DDS) standard, [OpenDDS](https://github.com/OpenDDS/OpenDDS)
 * A 3-D composite design optimization tool - awarded US patents [5984511](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/5984511.pdf) and [6341261](https://github.com/iamtheschmitzer/iamtheschmitzer/blob/main/6341261.pdf), later sold to Unigraphics
 * An online homeschool lesson planner with over 17 million lessons planned
